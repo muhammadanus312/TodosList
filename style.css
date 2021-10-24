@@ -1,0 +1,12 @@
+.form-group #title{
+    background-color: rgb(243, 229, 243);
+    border-radius: 5px;
+}
+.form-group #description{
+    background-color: rgb(243, 229, 243);
+    border-radius: 5px;
+}
+.form-label{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
