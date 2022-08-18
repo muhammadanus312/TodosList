@@ -1,0 +1,23 @@
+html {
+    font-size: 18px;    
+}
+.background-image{
+    background-image: url('/assets/back.png');
+    background-size:cover;
+    border-radius: 0.278rem; /* Aprrox 5px */
+}
+.form-group #title{
+    background: inherit;
+    border-radius: 0.278rem; /* Aprrox 5px */
+}
+.form-group #description{
+    background: inherit;
+    border-radius: 0.278rem; /* Approx 5px */
+}
+.form-label{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.navbar-brand, #title-main{
+    font-family:"Damion";
+}
